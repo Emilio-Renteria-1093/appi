@@ -1,0 +1,9 @@
+[
+  {
+    "id":1,
+    "nombre":"Asus Computer",
+    "price":200,
+    "description":"la mejor computadora del mercado, tiene las mejores piesas y materiales de mercado asi como su exelente prosesador",
+    "thumbnail":"https://raw.githubusercontent.com/Emilio-Renteria-1093/CompuTelNet_imagenes_app_flutter/refs/heads/main/20240123050239.png"
+  },
+]
